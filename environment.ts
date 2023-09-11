@@ -7,7 +7,6 @@ export const environment = {
         storageBucket: "timesheet-app-aa11a.appspot.com",
         messagingSenderId: "1073940488322",
         appId: "1:1073940488322:web:a34f6b753286d09687549b",
-        measurementId: "G-P534YYLVNF"
-    }
+        measurementId: "G-P534YYLVNF"    }
   };
 
